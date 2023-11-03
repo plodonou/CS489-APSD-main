@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/product-mgmt-cli-app/pom.xml" />
+        <option value="$PROJECT_DIR$/../../resources/LabSoulutions/demo-for-dockerizing-springboot-app/demo-for-dockerizing-springboot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/../../resources/LabSoulutions/demo-java-cli-app-containerized-using-jetbrains-intellij-docker/demo-java-cli-app-containerized-using-jetbrains-intellij-docker/helloworlddocker/pom.xml" />
+        <option value="$PROJECT_DIR$/container/helloworlddocker/pom.xml" />
+        <option value="$PROJECT_DIR$/spintboot-container/demo-for-dockerizing-springboot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/container3/product-mgmt-cli-app/pom.xml" />
+        <option value="$PROJECT_DIR$/container2/demo-for-dockerizing-springboot-app/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
